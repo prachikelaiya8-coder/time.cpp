@@ -50,6 +50,7 @@ HH:MM:SS => 1:01:05
 
 * C++
 
-## Author
+  ## video (https://drive.google.com/file/d/1XZSA5vNolQAowIOmztMRlxwqDSEwuBWJ/view?usp=sharing)
 
-A beginner learning C++ programming and improving coding skills through small projects.
+## Author
+kelaiya prachi
